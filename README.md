@@ -31,3 +31,20 @@ The robot has four identical legs to ensure balanced movement. Each leg consists
 - Knee Joint: Allows the leg to bend while walking.
 
 This simple two-joint design reduces mechanical complexity while providing enough flexibility for basic walking and standing.
+
+
+
+
+## Degrees of Freedom (DOF)
+
+Degrees of Freedom (DOF) describe the number of independent movements that a robot can perform.
+
+Each leg has:
+- 1 Hip Joint (1 DOF)
+- 1 Knee Joint (1 DOF)
+
+Since the robot has four legs:
+
+2 DOF × 4 Legs = 8 DOF
+
+The robot has a total of 8 Degrees of Freedom, which provides enough flexibility for basic walking and standing movements.
