@@ -15,3 +15,9 @@ This project presents a preliminary mechanical design of a simple robotic dog. T
 - Suggest a manufacturing method.
 - Discuss expected mechanical challenges.
 
+## Body Design
+
+The robot has a rectangular body designed to provide a stable platform for all mechanical and electronic components. The battery and controller are placed near the center of the body to improve weight distribution and maintain balance.
+
+The robot has four legs, with each leg connected to the body through mechanical joints driven by servo motors. This simple body structure provides stability while keeping the design lightweight and easy to manufacture.
+
