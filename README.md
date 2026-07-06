@@ -21,3 +21,13 @@ The robot has a rectangular body designed to provide a stable platform for all m
 
 The robot has four legs, with each leg connected to the body through mechanical joints driven by servo motors. This simple body structure provides stability while keeping the design lightweight and easy to manufacture.
 
+
+
+## Leg Design
+
+The robot has four identical legs to ensure balanced movement. Each leg consists of two joints:
+
+- Hip Joint: Connects the leg to the robot body and allows forward and backward movement.
+- Knee Joint: Allows the leg to bend while walking.
+
+This simple two-joint design reduces mechanical complexity while providing enough flexibility for basic walking and standing.
